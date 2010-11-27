@@ -1,0 +1,11 @@
+<ul>
+
+			<li>M0-17.10.10 - Få opp prosjektsiden, skrive problemstilling og foreløpig dokumentasjon. </li>
+			<li>M1-18.10.10 - Innlevering lev. 1. Møtes for godkjenning av gruppen, og ansvarsfordeling videre.</li>
+			<li>M2-18.10.10 - Ressursavklaring</li>
+			<li>M3-22.10.10 - Planlegge webside og innhente informasjon.</li>
+			<li>M4-31.10.10 - Få opp siden. 1.0 og arbeide videre med denne.</li>
+			<li>M5-01.11.10 - Godkjenning av foreløpig side.Godkjenning av foreløpige styringsdokumenter</li>
+			<li>M6-08.11.10 - Innlevering lev. 2. Webside  ferdig, klar for godkjenning</li>
+			<li>M7-12.11.10 - Fremlegging av prosjekt.</li>
+		</ul>
