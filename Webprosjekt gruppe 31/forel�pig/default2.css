@@ -1,0 +1,174 @@
+
+	a:link {color:black}
+	a:visited {color: #4f8bea}
+	a:hover {color: #637eb7; font-size:110%;}  
+	
+	
+hr
+	{
+	color:white;
+	position:relative;
+	top:1em;
+	}
+
+body 
+	{
+	background-color: #e3ddda;
+	}
+	
+p{
+  
+	font-family: sans-serif;
+  
+}	
+	
+	
+table 
+	{ 
+	border-spacing: 2em;
+	}
+
+#header 
+	{
+	color: black;
+	text-align:center;
+	font-size:260%;
+	font-family:Times; 
+	}
+
+
+#lenker
+	{
+	font-family: sans-serif;
+	position:relative;
+	left:1em;
+	margin:auto;
+	font-size:150%;
+	width:70%;
+	text-align:center;
+	border-style:none;	
+	}
+	
+#bilder1
+	{
+	margin:auto;
+	margin-top:4%;
+	font-size:105%;
+	width:70%;
+	text-align:center;
+	position:relative;
+	right:7em;
+	}
+#bilder2
+	{
+	margin:auto;
+	margin-top:4%;
+	font-size:105%;
+	width:70%;
+	text-align: center;
+	position:relative;
+	left:14em;
+	color:white;
+	}
+#midt
+	{
+	color:white;
+	font-size:120%;
+	margin:auto;
+	width:55%;
+	position:relative;
+	right:2em;
+	}
+#midt2
+	{
+	color:black;
+	font-size:120%;
+	margin:auto;
+	width:65%;
+	position:relative;
+	left:10em;
+	}
+
+#tilbake
+	{
+	margin-top:5%;
+	text-align: center;
+	color:black;
+	}
+
+#bilde
+	{
+	width:50%;
+	margin:auto;
+	margin-top:3%;
+	position:relative;
+	left:15%;
+	}
+
+#coppy
+ 	{
+ 	position:relative;
+	top:1em;
+	width:100%;
+ 	text-align:center;
+ 	color:black;
+ 	}
+#validator
+	{
+	width:20%;
+	position:relative;
+	left:47%;
+	}
+
+#leavitt
+	{
+	width:40%; 
+	position:relative;
+	left:11em;
+	}
+
+#sideHoved
+	{
+	position:relative;
+	bottom:37em;
+	left:1em;
+	width:16%;
+	}
+
+#sideLenker
+	{
+	position:relative;
+	bottom:10em;
+	left:1em;
+	width:16%;
+	}
+
+#sideOmoss
+	{
+	position:relative;
+	bottom:10em;
+	left:1em;
+	width:16%;
+	}
+
+#sideQuiz
+	{
+	position:relative;
+	bottom:10em;
+	left:1em;
+	width:16%;
+	}
+#sideQuotes
+	{
+	position:relative;
+	bottom:10em;
+	left:1em;
+	width:16%;
+	}
+#sideSesong
+	{
+	position:relative;
+	bottom:10em;
+	left:1em;
+	width:16%;
+	}
