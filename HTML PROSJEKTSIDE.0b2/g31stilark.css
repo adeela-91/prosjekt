@@ -1,0 +1,64 @@
+h2{color: #4f94ff; font-family: Verdana, sans-serif;}
+h3{color: #4f94ff; font-family: Verdana, sans-serif;}
+h5{font-family: Verdana, sans-serif;}
+
+a{text-decoration:none;}      
+a:link {color:black;}          /* mus over link */
+a:hover {color: #4582ff;}         /* besøkede linker */
+          
+
+h2{letter-spacing:5px;       /*oblig 2*/
+   position:relative;
+   
+   left:26%;}
+   
+h3{letter-spacing:5px;       
+   position:relative;
+   left:28%;
+   font-size: 100%}
+
+
+      
+
+h5{font-size:70%;         /*Dette er meny med alle linker*/
+   position:relative;
+   left:20%;}
+   
+
+
+p{
+  font-family: Verdana, sans-serif;
+  font-size:80%;
+  margin-right: 30%;
+  position:relative;
+  left:28%;}
+
+li{font-family: Verdana, sans-serif;
+  font-size:80%;
+  margin-right: 30%;
+  position:relative;
+  left:28%;}
+
+
+
+img{
+	position:relative;
+	left:20%;
+    border:2px solid black;}      /*bruker px fordi % ikke fungerer*/
+
+
+
+div#validator{
+	position:relative;
+	left:35%;}
+	
+div#styringsdokumenter{
+position: fixed;
+left:0%;}
+
+
+
+
+            
+
+

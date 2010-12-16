@@ -1,0 +1,193 @@
+<html>
+<head>
+<h1>Sluttraport for gruppe 31</h1>
+<link rel="stylesheet" type="text/css" href="css1.css" title="css1" />
+</head>
+
+
+
+
+<body>
+<h2>Innholdsfortegnelse:</h2>
+	<p>	<a href="#link1">Forord og resymé</a>|
+		<a href="#link2">Om produktet</a>|
+		<a href="#link3">Innledning</a>|
+		<a href="#link5">Arbeidsprosessen</a>|
+		<a href="#link6">Hjelpemidler</a>|
+		<a href="#link8">Brukervennlighet</a>|
+		<a href="#link9">Fargevalg</a>|
+		<a href="#link10">Dekker hele målgruppe</a>|
+		<a href="#link11">Evaluering</a>|
+		<a href="#link12">Evaluering av resultat</a>|
+		<a href="#link13">Evaluering av gruppe</a>|
+		<a href="#link15">Erfaringer</a>|
+		<a href="#link16">Hva fungerer bra med produktet</a>|
+		<a href="#link17">Mulig forbedringspotensial</a>|
+		<a href="#link18">Kilder</a>|
+		<a href="#link19">Vedlegg</a>
+	</p>
+
+
+
+
+
+
+
+
+
+
+
+Sluttrapport:
+
+(Forside)
+
+Gruppe 31:
+Gruppemedlemmer: Thomas K, Martin, Thomas H, Adeela
+
+
+<a id="link1"><h3>Forord / Resymé:</h3> </a>
+
+<p>
+Problemstillingen vår er: Hvordan skal vi utvikle en best mulig norsk info- / fanside for den amerikanske tv-serien MacGyver.
+</p> 
+
+<p>
+Dette er problemstillingen vi har utarbeidet underveis i prosjekt tiden. Vi skulle lage en side hvor både unge og gamle fans og interesserte skulle enklest mulig navigere seg igjennom sidene våre. Siden skulle ikke bare være enkel å bruke, men også være interessant å se på. En flott, brukervennelig og ikke minst underholdende "pek og klikk" side hvor man kan nå det man trenger via ett eller to klikk med musepekeren
+</p>
+
+<a id="link2"> <h3>Om produktet:</h3> </a>
+
+<p>
+Nettstedet som vi har utviklet skal informere norske MacGyver fans om serien med samme navn. Det skal fungere som en informasjonskanal for en interesseorganisasjon. Siden har en enkel oppbygning og en enkel layout, noe som er nødvendig for et brukervennlig nettsted. Den inneholder en oversikt over de ulike sesongene og karakterene, en quiz og en mail-funksjon, som gjør at brukerne kan gi oss tilbakemelding på hvordan vi eventuelt kan forbedre siden, eller sende in eventuelle spørsmål. I tillegg til dette har vi også en del videoklipp på siden. Hjemmesiden om MacGyver tilbyr leseren en god kilde for både informasjon og underholdning..
+<p/> 
+
+
+
+<a id="link3"> <h3>Innledning</h3> </a>
+
+<p>
+Problemformulering: Utvikle en brukervennlig norsk informasjonsside om den klassiske tv-serien MacGyver. Siden skal bestå av lettlest, men interessant informasjon om serien, samt andre elementer som gjør nettstedet interessant for målgruppen (norske fans og interesserte, 12 – 60 år).
+</p>
+
+<p>
+Grunnen for at vi valgte dette emnet er at selv om det finnes noen engelske sider om MacGyver, finnes det ikke en eneste norsk side om serien. Denne siden er derfor lagd med tanke på seriens norske fans. En annen grunn for at vi valgte dette emnet var en interesse for serien hos noen av gruppens medlemmer.
+</p>
+
+<p>
+Gruppen vår er sammensatt av to ulike studieretninger, anvendt datateknologi og dataingeniør. Det er ingen av oss som har tidligere erfaring med å lage websider. Vi har derfor bare brukt det vi har lært på dette kurset for å lage siden. Vi har også brukt PHP, siden dette er noe studentene på anvendt datateknologi har lært. Vi valgte å ikke bruke javascript, siden dette kan påvirke brukervennligheten.</p>
+
+
+<a id="link5"> <h3>Arbeidsprosessen:</h3> </a>
+
+<p>
+I starten av prosjektet brukte vi forholdsvis lang tid på å bestemme oss for et emne vi ønsket å jobbe med. Problemet var ikke at vi ikke ble enige om emne, men vi fant ingen emner som virket interessante.  I løpet av prosjektet har vi jobbet både i gruppa (gruppemøter) og hver for oss (avtalte arbeidsoppgaver). Vi valgte å fordele arbeidet så likt som mulig mellom gruppemedlemmene, slik at arbeidsmengden skulle bli overkommelig. Vi har ikke jobbet så asynkront som vi ønsket og/eller burde ha gjort og dette fører igjen til at vi kanskje ikke har utnyttet tiden fult så godt. Mye av dette skyldes som nevnt i innledningen at vi ikke har tidligere erfaring med web programmering og ettersom alle hadde sin måte å gjøre ting på har dette ført til en del venting i forhold til å fullføre prosjekt. Vi har allikevel gjort det beste vi har kunnet ut i fra kompetanse. Dette gjorde at vi var nødt til å ha forholdsvis hyppig  frekvens på gruppemøtene, slik at alle hang med i prosessen, og lærte av de andre på gruppa.
+</p> 
+
+<p>
+Vi utarbeidet en fremdriftsplan i starten av prosjektet. Etter hvert som vi har jobbet med prosjektet har vi funnet ut at noen ting har tatt lenger tid og noe kortere tid en det vi hadde tenkt. Dette har igjen ført til at vi ikke helt har fulgt fremdriftsplanen på alle punkter, men vi har allikevel fulgt fremdriftsplanen i grove trekk i forhold til ferdig produkt.
+</p>
+
+<a id="link6"> <h3>Hjelpemidler:</h3> </a>
+
+<p>
+Vi har hovedsaklig benyttet oss av DropBox som fildelingsverktøy. I starten av prosjektet benyttet vi også en god del tid til å sette oss inn i Git, men vi valgte å ikke fokusere på dette ettersom vi ikke fikk Git til å fungere som det skulle. Vi mener at en gruppe med personer som ikke har tidligere erfaring med Web programmering og som ikke har fått tilstrekkelig opplæring på et verktøy som Git vil ha store problemer med å benytte et verktøy som baserer seg på cmd koder. Vi valgte å ikke benytte Git for å samarbeide, ettersom det rett og slett spiste for mye tid og resurser for å få det til å fungere, men vi har en konto på github, hvor vi har de fleste filene våre. DropBox fungerte akkurat som forventet, og var et godt verktøy for samarbeid.
+</p>
+
+Resultat (Ferdig produkt): 
+http://student.iu.hio.no/~s171690/mindex.html
+
+
+<a id="link8"> <h3>Brukervennlighet:</h3> </a>
+
+<p>
+Med valg av denne type nettsted har vi også valgt en bred brukergruppe med interesserte fra alle aldre. Vi har fra starten av prosjektet vært opptatt av å lage en stilren og ryddig side, noe som gjør siden brukervennlig og enkel i bruk. Siden er delt opp med en hovedside, med maks to undersider der hver underside har samme meny som index siden. Dette gjør det enkelt å navigere seg gjennom, samtidig som at man veldig fort blir kjent med siden og oppsettet. Nettstedet bruker også mye luft mellom de fleste elementer, noe som også gjør det enkelt og ryddig.
+</p>
+
+<a id="link9"> <h3>Fargevalg:</h3></a>
+
+<p>
+I overskriften har vi valgt å lage en fargerik logo, som er basert på Mac Gyver-seriens ekte logo, med en stor bold font i front og en fargerik eksplosjon i bakgrunn. Fargene som er brukt er rød og beige. Vi velger å hente opp samme farger i menyen som står under, der vi bruker beige som “font-color” og “a:visited”, og rød som “a:hover”. Fargen begge egner seg ikke spesielt til tekst på web, men med svart som bakgrunn, ser man godt og tydelig hva som står. Grunnen til at vi samkjører fargene er for å få en bedre flyt i siden, samtidig som at det ikke blir altfor rotete. Vi benytter oss en del av fargerike bilder og filmer på siden og har funnet ut at det blir for rotete hvis vi endrer farge på menyen. Ellers på siden, bruker vi svart font, og har hvit bakgrunn.
+</p>
+
+<a id="link10"> <h3>Dekker hele målgruppe:</h3> </a>
+
+<p>
+Som forklart tidligere har vi en veldig bred brukergruppe, med bruker fra 12-60 år. Vi har forsøk å lage en best mulig side som dekker hele denne gruppen. For å få til dette har vi delt opp brukergruppen i to deler: Unge brukere(12-35 år), og eldre(35-60 år). Den unge brukergruppen er som regel mest opptatt av å se på filmer og bilder, mens den eldre gruppen er mer opptatt av å lese seg frem til kunnskap. Derfor har vi lagd en side som har begge muligheter.
+</p> 
+
+<p>
+Til den unge gruppen har vi bilder, som viser skuespillere, filmer hentet fra serien, og en PHP-quiz man kan teste sine kunnskaper med.</p>
+
+<p>
+For den eldre generasjonen har vi mye informasjon om både serien og skuespillere og vi har en enkel meldingsboks som kan benyttes hvis man lurer på noe.
+</p> 
+
+<p>
+Vi har også lagt inn en informasjons-tekst( I ) i høyre marg som forteller deg hvor du er og hva du kan gjøre på den siden du er på. Informasjonsteksten er beregnet for begge gruppene, men i hovedsak opprettet for de eldre brukerne som ikke alltid har like god datakompetanse som de yngre.
+</p> 
+
+<h1>Logo:
+Bilder som er brukt:</h1>
+
+<a id="link11"><h3>Evaluering:</h3> </a>
+
+<p>
+Ved hjelp av et godt samarbeid på fordeling av oppgaver og jevne arbeidstider har vi i gruppe 31 kommet fram til et resultat vi er fornøyde med. Veien til hvor vi er kommet i dag har vært en lærerik en, og ikke helt slik vi hadde forventet i begynnelsen.
+</p> 
+
+<a id="link12"><h3>Evaluering av resultat:</h3> </a>
+
+<p>
+Resultatet av vårt gruppearbeid er en norsk fan/informasjonsside av tv-serien Macgyver. Vi har endt opp med en god fanside med nyttige funksjoner som gjør siden interessant. Enkel navigering gjennom sider og undersider gjør siden enkel å bruke for alle. Vi har media og quiz for den litt yngre generasjon, mens siden fortsatt kan appellere til de eldre, med nyttig informasjon og lenker til mer stoff. Ved siden av dette gir vi muligheten til å komunisere med oss ved hjelp av en mail funksjon laget i php.</p>
+
+<a id="link13"><h3>Evaluering av gruppe:</h3> 
+</a>
+
+<p>
+Problemstillingen var et tema vi valgte etter noen diskusjoner i startfasen av prosjektet. Med mye kunnskap om serien innad i gruppa, satte vi oss kanskje noen store mål for det endelige resultatet. Et problem vi skapte for oss selv, var å ha litt for store ambisjoner i forhold til hva vi hadde av kunnskap.
+</p>
+
+<P>
+Som nevnt i gruppeevalueringen fra levering 2 så har vi alle samarbeidet godt i gruppen, vi har møtt opp til alle møtetider og vært flinke med å følge opp med både lekser og frister. Et problem som oppstod underveis var at vi ikke var helt flinke til å jobbe asynkront, dette grunnet mangel på erfaring i programmering. Vi hadde alle vår måte å jobbe på og det førte til noe venting på hverandre. Prosjektet har ikke bare vært en arbeidsprosess, men også noe lærerikt. Ettersom tiden gikk, ble vi bedre kjent og samarbeidet fløt mye bedre sammen. Gruppe arbeidet har resultert i et godt resultat vi er fornøyde med 
+</p>
+
+
+<a id="link15"><h3>Erfaringer:</h3> </a>
+
+<p>
+Innledningsfasen av prosjektet (finne emne, og problemstilling) var akkurat som beskrevet av forelesere og fagboken "Prosjektarbeid", dette var den mest tidkrevende og minst effektive fasen i prosjektet.
+</p>
+
+<p>
+Prosjektarbeid som arbeidsform er god, og vi føler ikke bare at vi har lært om prosjektarbeid som
+arbeidsform, men også lært mye HTML og CSS underveis i prosessen.
+</p>
+
+<p>
+Som tidligere nevnt skulle vi ønsket at vi hadde fått mer opplæring på samarbeidsverktøyet Git, slik at vi kunne ha benyttet oss av dette.
+</p>
+
+<a id="link16"><h3>Hva fungerer bra med produktet:</h3> </a>
+
+<p>
+Vi har en produktside som både ser bra ut, og har bra med funksjoner. Ved å blande inn MacGyver fargene inn i både lenker og header på alle sidene har vi en assosierer vi hjemmesiden med serien. Vi har valgt en helt plain bakgrunn som gjør det enkelt å lese alt av informasjon og leserens blikk blir rettet mot hva vi vil det skal. Ved siden av dette har vi en enkel navigeringsmeny, og tekst som forteller hvor du er, og hva du kan gjøre hele tiden. Vi har også en quiz, media informasjon og mail-funksjon i PHP som både underholder og lar lesere kommunisere med oss på gruppe 31.
+</p>
+
+<a id="link17"> <h3>Mulig forbedringspotensial:</h3> </a>
+
+<p>
+Med mer tid kunne vi nok ha gjort mer. Og etter en brukertest hvor vi har fått gode kommentarer og respons har vi allikevel kommet på noen ting som kan forbedres / gjøres litt annerledes. 
+Kanskje med størst hensyn til fargeblinde, så er nok fargene vi har valgt i meny en liten feil. En enkel løsning var å sette en svart bakgrunn bak både header og meny. Menyen blir enklere å se, selv for fargeblinde. Om denne siden skulle driftes videre, så skal det jo selvsagt legges inn mye mer informasjon. Det er begrenset med hva vi hadde mulighet til å legge inn i løpet av prosjekttiden og vi ser alt nå hva mer som kunne puttes inn. Også optimalisering for web er noe vi holder på med å jobbe med nå. Dette for å gjøre siden så brukervennlig som mulig slik at alle kan ha tilgang og se den slik vi vil de skal.
+</p>
+
+<a id="link18"> <h3>Kilder:</h3><a>
+
+<p></p>
+
+<a id="link19"><h3>Vedlegg:</h3><a>
+
+<p></p>
+
+
+</body>
+</html>
